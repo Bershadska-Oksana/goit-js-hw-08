@@ -64,8 +64,6 @@ const images = [
   },
 ];
 
-import { images } from "./images.js";
-
 const galleryContainer = document.querySelector(".gallery");
 
 const galleryMarkup = images
